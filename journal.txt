@@ -1,8 +1,9 @@
 Title
-Cool Title of Interesting Things
+Cool Title of Interesting Things What we Found
 
 Author
 J. Walsh
+J. Smith
 
 Introduction
 
