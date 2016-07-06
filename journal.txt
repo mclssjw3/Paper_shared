@@ -11,5 +11,7 @@ Introduction
 Conclusion
 
 References
-See reference file
+My ref #1
+My ref #2
+My ref #3
 
