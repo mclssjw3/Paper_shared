@@ -1,8 +1,10 @@
 Title
-Some stuff what I did
+Cool Title of Interesting Things What we Found
+
 
 Author
 J. Walsh
+J. Smith
 
 Introduction
 
